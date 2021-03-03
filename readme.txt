@@ -7,4 +7,4 @@ system requirements
 - HTML Versi 5
 - Bootstrap 5
 
-Sihombing Yogi Saputra <yogiman224172@gmail.com>
+Sihombing Yogi S <yogiman224172@gmail.com>
